@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul5_Tugas_Kelompok6", "Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6.csproj", "{9B0FF7DD-2CBB-4A39-B7E0-CD7EAA11D204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B0FF7DD-2CBB-4A39-B7E0-CD7EAA11D204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0FF7DD-2CBB-4A39-B7E0-CD7EAA11D204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0FF7DD-2CBB-4A39-B7E0-CD7EAA11D204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0FF7DD-2CBB-4A39-B7E0-CD7EAA11D204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFCF68A1-9E0E-4EFA-9A6B-06E16F8FCA8C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\obj\Debug\Modul5_Tugas_Kelompok6.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\obj\Debug\Modul5_Tugas_Kelompok6.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\bin\Debug\Modul5_Tugas_Kelompok6.exe.config
+C:\Users\USER\source\repos\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\bin\Debug\Modul5_Tugas_Kelompok6.exe
+C:\Users\USER\source\repos\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\bin\Debug\Modul5_Tugas_Kelompok6.pdb
+C:\Users\USER\source\repos\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\obj\Debug\Modul5_Tugas_Kelompok6.exe
+C:\Users\USER\source\repos\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\obj\Debug\Modul5_Tugas_Kelompok6.pdb
+F:\Git\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\bin\Debug\Modul5_Tugas_Kelompok6.exe.config
+F:\Git\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\bin\Debug\Modul5_Tugas_Kelompok6.exe
+F:\Git\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\bin\Debug\Modul5_Tugas_Kelompok6.pdb
+F:\Git\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\obj\Debug\Modul5_Tugas_Kelompok6.csprojAssemblyReference.cache
+F:\Git\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\obj\Debug\Modul5_Tugas_Kelompok6.csproj.CoreCompileInputs.cache
+F:\Git\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\obj\Debug\Modul5_Tugas_Kelompok6.exe
+F:\Git\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\obj\Debug\Modul5_Tugas_Kelompok6.pdb
