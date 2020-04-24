@@ -6,28 +6,28 @@ using System.Threading.Tasks;
 
 namespace Modul5_Kelompok6_CSharp
 {
-    class UserService
+    class userService
     {
         private string[,] data, histories;
         private string email, password, roles, buku1, buku2, tanggal = "";
 
-        public UserService(string emails, string passwords)
+        public userService(string emails, string passwords)
         {
             email = emails;
             password = passwords;
             data = new string[2, 3] {
-                {"kanyakelompok06@gmail.com", "12345", "superadmin" },
-                {"alfinkelompok06@gmail.com", "12345", "user"  }
+                {"kanyakelompok6@gmail.com", "12345", "superadmin" },
+                {"alfinkelompok6@gmail.com", "12345", "user"  }
             };
             histories = new string[2, 4] {
-                {"kanyakelompok06@gmail.com", "Fisika Dasar", "Dasar Komputer dan Pemprograman", "24-04-20" },
-                {"alfinkelompok06@gmail.com", "Dasar Komputer dan Pemprograman", "Konsep Jaringan Komputer", "24-04-20"  }
+                {"kanyakelompok6@gmail.com", "Fisika Dasar", "Dasar Komputer dan Pemprograman", "24-04-20" },
+                {"alfinkelompok6@gmail.com", "Dasar Komputer dan Pemprograman", "Konsep Jaringan Komputer", "24-04-20"  }
             };
         }
 
-        public void Login()
+        public void login()
         {
-            var (status, role) = CheckCredentials();
+            var (status, role) = checkCredentials();
             if (status == true)
             {
                 Console.WriteLine("\nWelcome " + role);
@@ -38,24 +38,24 @@ namespace Modul5_Kelompok6_CSharp
                 Console.WriteLine("\nInvalid Login");
             }
         }
-        public void Pinjaman()
+        public void pinjaman()
         {
-            var (status, buku1) = CheckBooks1();
+            var (status, buku1) = checkBooks1();
             if (status == true)
             {
                 Console.WriteLine("\n" + email + " Meminjam buku : \n" + buku1);
             }
         }
-        public void Waktu()
+        public void waktu()
         {
-            var (status, tanggal) = CheckTime();
+            var (status, tanggal) = checkTime();
             if (status == true)
             {
                 Console.WriteLine("Tanggal Peminjaman : " + tanggal);
             }
 
         }
-        private (bool, string) CheckCredentials()
+        private (bool, string) checkCredentials()
         {
             for (int i = 0; i < histories.GetLength(0); i++)
             {
@@ -67,7 +67,7 @@ namespace Modul5_Kelompok6_CSharp
             }
             return (false, roles);
         }
-        private (bool, string) CheckBooks1()
+        private (bool, string) checkBooks1()
         {
             for (int i = 0; i < histories.GetLength(0); i++)
             {
@@ -79,7 +79,7 @@ namespace Modul5_Kelompok6_CSharp
             }
             return (false, buku1);
         }
-        private (bool, string) CheckTime()
+        private (bool, string) checkTime()
         {
             for (int i = 0; i < data.GetLength(0); i++)
             {
