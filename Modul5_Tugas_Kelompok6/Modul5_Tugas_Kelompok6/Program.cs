@@ -8,7 +8,7 @@ namespace Modul5_Kelompok6_CSharp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[]args)
         {
             string email, password;
 
@@ -17,10 +17,10 @@ namespace Modul5_Kelompok6_CSharp
             Console.Write("Password : ");
             password = Console.ReadLine();
 
-            userService data = new userService(email, password);
-            data.login();
-            data.pinjaman();
-            data.waktu();
+            UserService data = new UserService(email, password);
+            data.Login();
+            data.Pinjaman();
+            data.Waktu();
 
 
             Console.ReadKey();
