@@ -20,6 +20,7 @@ namespace Modul5_Kelompok6_CSharp
             UserService data = new UserService(email, password);
             data.Login();
             data.Pinjaman();
+            data.Pinjaman2();
             data.Waktu();
 
 

@@ -46,6 +46,14 @@ namespace Modul5_Kelompok6_CSharp
                 Console.WriteLine("\n" + email + " Meminjam buku : \n" + buku1);
             }
         }
+        public void Pinjaman2()
+        {
+            var (status, buku2) = CheckBooks2();
+            if (status == true)
+            {
+                Console.WriteLine(buku2 + "\n");
+            }
+        }
         public void Waktu()
         {
             var (status, tanggal) = CheckTime();
@@ -78,6 +86,18 @@ namespace Modul5_Kelompok6_CSharp
                 }
             }
             return (false, buku1);
+        }
+        private (bool, string) CheckBooks2()
+        {
+            for (int i = 0; i < histories.GetLength(0); i++)
+            {
+                if (data[i, 0] == email && data[i, 1] == password)
+                {
+                    buku2 = histories[i, 2];
+                    return (true, buku2);
+                }
+            }
+            return (false, buku2);
         }
         private (bool, string) CheckTime()
         {

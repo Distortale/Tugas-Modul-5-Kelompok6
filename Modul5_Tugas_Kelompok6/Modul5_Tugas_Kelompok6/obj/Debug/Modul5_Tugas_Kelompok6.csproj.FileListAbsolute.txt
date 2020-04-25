@@ -19,3 +19,10 @@ C:\Users\Apin_Light\Source\Repos\Distortale\Tugas-Modul-5-Kelompok6\Modul5_Tugas
 C:\Users\Apin_Light\Source\Repos\Distortale\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\obj\Debug\Modul5_Tugas_Kelompok6.csproj.CoreCompileInputs.cache
 C:\Users\Apin_Light\Source\Repos\Distortale\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\obj\Debug\Modul5_Tugas_Kelompok6.exe
 C:\Users\Apin_Light\Source\Repos\Distortale\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\obj\Debug\Modul5_Tugas_Kelompok6.pdb
+C:\Users\Apin_Light\Source\Repos\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\bin\Debug\Modul5_Tugas_Kelompok6.exe.config
+C:\Users\Apin_Light\Source\Repos\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\bin\Debug\Modul5_Tugas_Kelompok6.exe
+C:\Users\Apin_Light\Source\Repos\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\bin\Debug\Modul5_Tugas_Kelompok6.pdb
+C:\Users\Apin_Light\Source\Repos\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\obj\Debug\Modul5_Tugas_Kelompok6.csprojAssemblyReference.cache
+C:\Users\Apin_Light\Source\Repos\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\obj\Debug\Modul5_Tugas_Kelompok6.csproj.CoreCompileInputs.cache
+C:\Users\Apin_Light\Source\Repos\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\obj\Debug\Modul5_Tugas_Kelompok6.exe
+C:\Users\Apin_Light\Source\Repos\Tugas-Modul-5-Kelompok6\Modul5_Tugas_Kelompok6\Modul5_Tugas_Kelompok6\obj\Debug\Modul5_Tugas_Kelompok6.pdb
