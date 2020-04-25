@@ -51,7 +51,7 @@ namespace Modul5_Kelompok6_CSharp
             var (status, buku2) = CheckBooks2();
             if (status == true)
             {
-                Console.WriteLine(buku2 + "\n");
+                Console.WriteLine(buku2);
             }
         }
         public void Waktu()
